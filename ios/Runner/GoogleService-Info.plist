@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>745483776169-n04lto492u4di58ubo38on3g9nmfh0fq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.745483776169-n04lto492u4di58ubo38on3g9nmfh0fq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>745483776169-8dlqdbfi3msbunfcascu4v3bore1aluo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD2Kyo0MFX82W6mq1PNiMfho98jfHFArao</string>
+	<key>GCM_SENDER_ID</key>
+	<string>745483776169</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.parfumstoremanager</string>
+	<key>PROJECT_ID</key>
+	<string>parfum-store-p73xxd</string>
+	<key>STORAGE_BUCKET</key>
+	<string>parfum-store-p73xxd.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:745483776169:ios:88caeb6c3c697e419939b8</string>
+</dict>
+</plist>

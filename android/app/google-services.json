@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "745483776169",
+    "project_id": "parfum-store-p73xxd",
+    "storage_bucket": "parfum-store-p73xxd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745483776169:android:9f7bf8c8992d50359939b8",
+        "android_client_info": {
+          "package_name": "com.mycompany.parfumstoremanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745483776169-8dlqdbfi3msbunfcascu4v3bore1aluo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.parfumstoremanager",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "745483776169-2qkom2lpnkstqffv827l02suvf60d2u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUnJQquLWJhB_Uro6xBiPmYAgGamUNlKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745483776169-2qkom2lpnkstqffv827l02suvf60d2u1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745483776169-n04lto492u4di58ubo38on3g9nmfh0fq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.parfumstoremanager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
